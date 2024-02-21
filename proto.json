@@ -4,5 +4,11 @@
             "neu": "Neu",
             "abbrechen": "Abbrechen"
         }
+    },
+    "enums": {
+        "products": {
+            "PRODUCT_A": "PRODUCT_A",
+            "PRODUCT_B": "PRODUCT_B"
+        }
     }
 }
