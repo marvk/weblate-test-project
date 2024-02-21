@@ -1,1 +1,8 @@
-{}
+{
+    "my_service": {
+        "buttons": {
+            "neu": "New",
+            "abbrechen": "Abort"
+        }
+    }
+}
