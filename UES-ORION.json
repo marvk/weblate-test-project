@@ -1,8 +1,0 @@
-{
-    "enums": {
-        "products": {
-            "PRODUCT_A": "PRODUKT_NR_A",
-            "PRODUCT_B": "PRODUKT_NR_B"
-        }
-    }
-}
