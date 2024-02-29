@@ -5,5 +5,5 @@
             "abbrechen": "Abbrechen",
             "fehler": "Fehler {{code}}: {{nachricht}}"
         }
-    },
+    }
 }
