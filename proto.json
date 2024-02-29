@@ -2,13 +2,8 @@
     "my_service": {
         "buttons": {
             "neu": "Neu",
-            "abbrechen": "Abbrechen"
+            "abbrechen": "Abbrechen",
+            "fehler": "Fehler {{code}}: {{nachricht}}"
         }
     },
-    "enums": {
-        "products": {
-            "PRODUCT_A": "PRODUCT_A",
-            "PRODUCT_B": "PRODUCT_B"
-        }
-    }
 }
