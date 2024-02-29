@@ -2,7 +2,9 @@
     "my_service": {
         "buttons": {
             "neu": "Neu",
-            "abbrechen": "Abbrechen",
+            "abbrechen": "Abbrechen"
+        },
+        "snackbar": {
             "fehler": "Fehler {{code}}: {{nachricht}}"
         }
     }
