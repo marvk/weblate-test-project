@@ -3,6 +3,9 @@
         "buttons": {
             "neu": "Neu",
             "abbrechen": "Abbrechen"
+        },
+        "snackbar": {
+            "fehler": "Fehler {{code}}: {{nachricht}}"
         }
     },
     "enums": {
