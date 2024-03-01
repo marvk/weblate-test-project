@@ -6,6 +6,9 @@
         },
         "snackbar": {
             "fehler": "Fehler {{code}}: {{nachricht}}"
+        },
+        "error_messages": {
+            "kam_existiert_nicht": "KAM existiert nicht"
         }
     }
 }
