@@ -8,7 +8,7 @@
             "fehler": "Fehler {{code}}: {{nachricht}}"
         },
         "error_messages": {
-            "kam_existiert_nicht": "KAM nicht gefunden"
+            "kam_existiert_nicht": "Key Account Manager nicht gefunden"
         }
     },
     "enums": {
