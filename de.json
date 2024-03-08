@@ -2,13 +2,14 @@
     "my_service": {
         "buttons": {
             "neu": "Neu",
-            "abbrechen": "Abbrechen"
+            "abbrechen": "Abbrechen",
+            "marktlokation_hinzufügen": "Marktlokation hinzufügen"
         },
         "snackbar": {
             "fehler": "Fehler {{code}}: {{nachricht}}"
         },
         "error_messages": {
-            "kam_existiert_nicht": "Key Account Manager nicht gefunden"
+            "kam_existiert_nicht": "KAM nicht gefunden"
         }
     },
     "enums": {
