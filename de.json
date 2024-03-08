@@ -17,5 +17,9 @@
             "PRODUCT_B": "PRODUCT_B"
         }
     },
-    "test": "Mein Test"
+    "test": {
+        "test": {
+            "test": "Test Test"
+        }
+    }
 }
