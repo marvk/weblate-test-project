@@ -2,13 +2,14 @@
     "my_service": {
         "buttons": {
             "neu": "New",
-            "abbrechen": "Abort"
+            "abbrechen": "Abort",
+            "marktlokation_hinzufügen": "Add Delivery Location"
         },
         "snackbar": {
             "fehler": "Error {{code}}: {{nachricht}}"
         },
         "error_messages": {
-            "kam_existiert_nicht": "Key Account Manager not found"
+            "kam_existiert_nicht": "KAM not found"
         }
     },
     "test": {
