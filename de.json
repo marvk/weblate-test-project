@@ -16,5 +16,6 @@
             "PRODUCT_A": "PRODUCT_A",
             "PRODUCT_B": "PRODUCT_B"
         }
-    }
+    },
+    "test": "Mein Test"
 }
