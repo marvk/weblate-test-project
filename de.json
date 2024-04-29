@@ -3,7 +3,8 @@
         "buttons": {
             "neu": "Neu",
             "abbrechen": "Abbrechen",
-            "marktlokation_hinzufügen": "Marktlokation hinzufügen"
+            "marktlokation_hinzufügen": "Marktlokation hinzufügen",
+            "hinzufuegen": "Addieren"
         },
         "snackbar": {
             "fehler": "Fehler {{code}}: {{nachricht}}"
