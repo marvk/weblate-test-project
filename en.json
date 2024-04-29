@@ -3,6 +3,12 @@
         "buttons": {
             "neu": "New",
             "abbrechen": "Abort"
+        },
+        "snackbar": {
+            "fehler": "Error {{code}}: {{nachricht}}"
+        },
+        "error_messages": {
+            "kam_existiert_nicht": "Key Account Manager not found"
         }
     }
 }
