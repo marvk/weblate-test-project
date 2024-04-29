@@ -3,6 +3,7 @@
         "buttons": {
             "neu": "Neu",
             "abbrechen": "Abbrechen",
+            "hinzufuegen": "Hinzufügen",
             "marktlokation_hinzufügen": "Marktlokation hinzufügen"
         },
         "snackbar": {
