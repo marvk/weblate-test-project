@@ -3,7 +3,8 @@
         "buttons": {
             "neu": "New",
             "abbrechen": "Abort",
-            "marktlokation_hinzufügen": "Add Delivery Location"
+            "marktlokation_hinzufügen": "Add Delivery Location",
+            "hinzufuegen": "Add"
         },
         "snackbar": {
             "fehler": "Error {{code}}: {{nachricht}}"
