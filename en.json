@@ -10,7 +10,8 @@
             "fehler": "Error {{code}}: {{nachricht}}"
         },
         "error_messages": {
-            "kam_existiert_nicht": "KAM not found"
+            "kam_existiert_nicht": "KAM not found",
+            "bp_existiert_nicht": "BP does not exist"
         }
     },
     "test": {

@@ -10,7 +10,8 @@
             "fehler": "Fehler {{code}}: {{nachricht}}"
         },
         "error_messages": {
-            "kam_existiert_nicht": "KAM nicht gefunden"
+            "kam_existiert_nicht": "KAM nicht gefunden",
+            "bp_existiert_nicht": "BP existiert nicht"
         }
     },
     "enums": {
