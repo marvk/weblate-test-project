@@ -10,7 +10,8 @@
             "fehler": "Fehler {{code}}: {{nachricht}}"
         },
         "error_messages": {
-            "kam_existiert_nicht": "KAM existiert nicht"
+            "kam_existiert_nicht": "KAM existiert nicht",
+            "bp_existiert_nicht": "Businesspartner existiert nicht"
         }
     }
 }
