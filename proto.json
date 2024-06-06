@@ -4,7 +4,8 @@
             "neu": "Neu",
             "abbrechen": "Abbrechen",
             "hinzufuegen": "Hinzufügen",
-            "marktlokation_hinzufügen": "Marktlokation hinzufügen"
+            "marktlokation_hinzufügen": "Marktlokation hinzufügen",
+            "bilanzkreiscode": "Bilanzkreis-Code"
         },
         "snackbar": {
             "fehler": "Fehler {{code}}: {{nachricht}}"
