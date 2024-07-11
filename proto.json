@@ -14,5 +14,12 @@
             "kam_existiert_nicht": "KAM existiert nicht",
             "bp_existiert_nicht": "Businesspartner existiert nicht"
         }
+    },
+    "test_service": {
+        "maske1": {
+            "buttons": {
+                "abbrechen": "Abbrechen"
+            }
+        }
     }
 }
